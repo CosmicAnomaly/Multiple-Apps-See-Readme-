@@ -1,0 +1,24 @@
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\bin\Debug\Assignment 1-1.exe.config
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\bin\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\bin\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\obj\Debug\Assignment 1-1.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\obj\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1-1\Assignment 1-1\obj\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\bin\Debug\Assignment 1-1.exe.config
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\obj\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\obj\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\bin\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\bin\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1 1-7\Assignment 1-1\obj\Debug\Assignment 1-1.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.exe.config
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.exe
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.pdb
+C:\Users\Scott\Documents\Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.csprojResolveAssemblyReference.cache
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.exe.config
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.exe
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\bin\Debug\Assignment 1-1.pdb
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.csprojResolveAssemblyReference.cache
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.exe
+G:\Programming\Intro To Programming\Assignment 1\Assignment 1-1\obj\Debug\Assignment 1-1.pdb
